@@ -172,12 +172,12 @@
     <task active="true" id="Default" summary="Default task">
       <created>1478474098958</created>
       <updated>1478474098958</updated>
-      <workItem from="1478474103121" duration="79000" />
+      <workItem from="1478474103121" duration="814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79000" />
+    <option name="totallyTimeSpent" value="814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="833" extended-state="6" />
