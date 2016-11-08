@@ -82,6 +82,13 @@
           <orderEntry type="dot-net-library" name="System.Core" />
           <orderEntry type="dot-net-library" name="System.Xml" />
           <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+          <orderEntry type="module-library">
+            <library>
+              <binaries>
+                <root url="netdll://$USER_HOME$/Development/UNI/Advanced Computer Lab - Unity/Mini Projects/unity-mini-project2/Assets/Editor/Plugins/UnityEditorConsuloPlugin5.3.dll!/" />
+              </binaries>
+            </library>
+          </orderEntry>
         </module-layer>
       </module>
       <module name="Assembly-CSharp" current-layer="Default">
