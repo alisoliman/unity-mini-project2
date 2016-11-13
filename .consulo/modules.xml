@@ -95,6 +95,8 @@
         <module-layer name="Default">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
+          <content url="file://$USER_HOME$/Development/UNI/Advanced Computer Lab - Unity/Mini Projects/unity-mini-project2/Assets/Scripts/FollowCamera.cs" />
+          <content url="file://$USER_HOME$/Development/UNI/Advanced Computer Lab - Unity/Mini Projects/unity-mini-project2/Assets/Scripts/Player.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
