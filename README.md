@@ -10,5 +10,11 @@ Models where brought from :
 
 [TF3DM](http://tf3dm.com)
 
+# Initial Image
 
 ![Alt text](/shh_art_loc_06_living_room.jpg?raw=true "Living Room Image")
+
+
+#Final Output
+
+![Alt text](/ScreenShot.png?raw=true "Living Room Image")
